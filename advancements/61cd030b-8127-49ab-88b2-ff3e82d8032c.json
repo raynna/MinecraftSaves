@@ -1,0 +1,1370 @@
+{
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:tiki_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crested_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_beam": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:obsidian_stem": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_button": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:improved_lava_fizz": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crested_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:hammock": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:beach_towel": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:cabinet": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_floorboard": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:radio": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:47 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_sign": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:sunglasses": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:improved_nether_fizz": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:mini_fridge": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:beach_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:chair": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-07-24 22:04:01 +0200",
+      "minecraft:taiga": "2024-07-17 21:05:12 +0200",
+      "minecraft:birch_forest": "2024-07-19 19:40:42 +0200",
+      "minecraft:stony_shore": "2024-07-17 13:57:48 +0200",
+      "minecraft:dripstone_caves": "2024-07-30 23:55:30 +0200",
+      "minecraft:snowy_taiga": "2024-07-30 23:53:11 +0200",
+      "minecraft:grove": "2024-07-20 17:49:57 +0200",
+      "minecraft:cold_ocean": "2024-07-18 20:58:12 +0200",
+      "minecraft:forest": "2024-07-19 19:30:59 +0200",
+      "minecraft:ocean": "2024-07-19 20:38:46 +0200",
+      "minecraft:old_growth_birch_forest": "2024-07-19 19:40:44 +0200",
+      "minecraft:meadow": "2024-07-17 13:58:17 +0200"
+    },
+    "done": false
+  },
+  "beachparty:palm_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_door": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_fence": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:lounge_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:table": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-07-17 13:57:48 +0200"
+    },
+    "done": true
+  },
+  "wythers:world_explorer": {
+    "criteria": {
+      "wythers:boreal_forest_yellow": "2024-07-17 21:05:09 +0200",
+      "wythers:snowy_peaks": "2024-07-20 17:47:17 +0200",
+      "wythers:icy_crags": "2024-07-30 23:53:10 +0200",
+      "wythers:autumnal_forest": "2024-07-20 17:40:44 +0200",
+      "wythers:black_beach": "2024-07-24 22:30:24 +0200",
+      "wythers:gravelly_river": "2024-07-17 23:27:02 +0200",
+      "wythers:gravelly_beach": "2024-07-18 20:52:29 +0200",
+      "wythers:cool_stony_canyons": "2024-07-18 20:59:56 +0200",
+      "wythers:temperate_rainforest": "2024-07-24 22:13:55 +0200",
+      "wythers:boreal_forest_red": "2024-07-21 21:31:46 +0200",
+      "wythers:forested_highlands": "2024-07-20 17:47:01 +0200",
+      "wythers:pine_barrens": "2024-07-24 22:12:59 +0200",
+      "wythers:cold_plains": "2024-07-17 21:00:00 +0200",
+      "wythers:cold_stony_shore": "2024-07-17 21:05:28 +0200",
+      "wythers:cool_plains": "2024-07-17 20:52:39 +0200",
+      "wythers:underground": "2024-07-19 13:11:41 +0200",
+      "wythers:cool_forest_edge": "2024-07-17 20:52:53 +0200",
+      "wythers:autumnal_birch_forest": "2024-07-19 19:34:03 +0200",
+      "wythers:crimson_tundra": "2024-07-21 21:33:09 +0200",
+      "wythers:tundra": "2024-07-21 21:31:28 +0200",
+      "wythers:deep_underground": "2024-07-21 13:34:43 +0200",
+      "wythers:calcite_coast": "2024-07-17 14:01:58 +0200",
+      "wythers:cool_forest": "2024-07-17 13:57:55 +0200",
+      "wythers:sand_dunes": "2024-07-17 23:27:17 +0200",
+      "wythers:larch_taiga": "2024-07-19 20:27:42 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-07-17 13:57:58 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-07-17 13:57:58 +0200"
+    },
+    "done": true
+  },
+  "meadow:main/find_meadow": {
+    "criteria": {
+      "meadow": "2024-07-17 13:58:17 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2024-07-17 20:52:08 +0200",
+      "has_black_balloon": "2024-07-17 20:52:08 +0200",
+      "has_lime_balloon": "2024-07-17 20:52:08 +0200",
+      "has_cyan_balloon": "2024-07-17 20:52:08 +0200",
+      "has_light_blue_balloon": "2024-07-17 20:52:08 +0200",
+      "has_gray_balloon": "2024-07-17 20:52:08 +0200",
+      "has_pink_balloon": "2024-07-17 20:52:08 +0200",
+      "has_light_gray_balloon": "2024-07-17 20:52:08 +0200",
+      "has_white_balloon": "2024-07-17 20:52:08 +0200",
+      "has_blue_balloon": "2024-07-17 20:52:08 +0200",
+      "has_yellow_balloon": "2024-07-17 20:52:08 +0200",
+      "has_purple_balloon": "2024-07-17 20:52:08 +0200",
+      "has_orange_balloon": "2024-07-17 20:52:08 +0200",
+      "has_brown_balloon": "2024-07-17 20:52:08 +0200",
+      "has_green_balloon": "2024-07-17 20:52:08 +0200",
+      "has_magenta_balloon": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2024-07-17 20:52:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-07-17 20:54:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-07-17 21:02:19 +0200"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-07-17 21:04:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-07-17 21:05:58 +0200"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_enderman": "2024-07-30 14:42:13 +0200",
+      "baby_wither_skeleton": "2024-07-26 15:04:27 +0200",
+      "baby_skeleton": "2024-07-17 21:06:23 +0200",
+      "baby_creeper": "2024-07-23 00:34:32 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-07-17 21:08:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-07-17 21:09:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-07-17 21:14:58 +0200",
+      "cooked_beef": "2024-07-19 16:42:13 +0200",
+      "baked_potato": "2024-07-26 15:14:51 +0200",
+      "potato": "2024-07-26 15:06:13 +0200",
+      "cooked_cod": "2024-07-23 14:32:59 +0200",
+      "bread": "2024-07-18 21:03:43 +0200",
+      "golden_carrot": "2024-07-21 14:31:04 +0200",
+      "cooked_chicken": "2024-07-21 15:09:19 +0200",
+      "carrot": "2024-07-17 21:19:23 +0200"
+    },
+    "done": false
+  },
+  "meadow:main/wool_collector": {
+    "criteria": {
+      "meadow:inky_wool": "2024-07-19 20:31:41 +0200",
+      "meadow:patched_wool": "2024-07-17 21:17:03 +0200"
+    },
+    "done": false
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2024-07-17 21:24:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-07-17 21:24:55 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-07-22 18:31:43 +0200",
+      "potato": "2024-07-22 14:48:00 +0200",
+      "wheat": "2024-07-17 21:24:55 +0200",
+      "carrot": "2024-07-17 21:25:01 +0200"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-07-17 23:29:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-07-18 20:28:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-07-18 20:28:23 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-07-18 20:28:23 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "barrel": "2024-07-22 17:31:06 +0200",
+      "huntingpost": "2024-07-21 21:43:45 +0200",
+      "blueprinttable": "2024-07-21 21:48:55 +0200",
+      "oceanographytable": "2024-07-21 21:41:36 +0200",
+      "fletchingtable": "2024-07-24 22:10:04 +0200",
+      "grindstone": "2024-07-18 20:29:02 +0200",
+      "gardeningtable": "2024-07-24 22:21:36 +0200",
+      "smoker": "2024-07-18 20:56:48 +0200",
+      "smithingtable": "2024-07-21 21:51:34 +0200",
+      "blastfurnace": "2024-07-24 00:28:56 +0200",
+      "lectern": "2024-07-20 17:57:52 +0200",
+      "woodworkingtable": "2024-07-21 21:41:09 +0200",
+      "stonecutter": "2024-07-21 14:44:03 +0200",
+      "composter": "2024-07-22 00:45:37 +0200"
+    },
+    "done": false
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "grindstone": "2024-07-18 20:29:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-07-24 22:00:35 +0200",
+      "minecraft:blaze": "2024-07-26 14:38:30 +0200",
+      "minecraft:skeleton": "2024-07-21 23:19:59 +0200",
+      "minecraft:guardian": "2024-07-22 20:22:15 +0200",
+      "minecraft:vindicator": "2024-07-22 12:24:14 +0200",
+      "minecraft:magma_cube": "2024-07-21 18:57:46 +0200",
+      "minecraft:spider": "2024-07-19 13:37:16 +0200",
+      "minecraft:creeper": "2024-07-24 01:10:58 +0200",
+      "quark:forgotten": "2024-07-29 17:43:34 +0200",
+      "minecraft:wither_skeleton": "2024-07-26 14:38:27 +0200",
+      "minecraft:piglin": "2024-07-21 19:03:52 +0200",
+      "minecraft:enderman": "2024-07-23 15:23:35 +0200",
+      "minecraft:silverfish": "2024-07-29 21:42:05 +0200",
+      "minecraft:zombie": "2024-07-18 20:50:50 +0200",
+      "quark:foxhound": "2024-07-21 18:57:27 +0200",
+      "minecraft:drowned": "2024-07-19 19:35:11 +0200",
+      "minecraft:zombie_villager": "2024-07-19 13:34:19 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-07-18 20:50:50 +0200"
+    },
+    "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "hops": "2024-07-18 21:07:38 +0200",
+      "hops_seeds": "2024-07-18 21:06:30 +0200"
+    },
+    "done": false
+  },
+  "bakery:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2024-07-18 21:06:45 +0200"
+    },
+    "done": true
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "brewery:hops": "2024-07-18 21:07:38 +0200"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-07-19 12:53:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-07-21 23:13:53 +0200",
+      "minecraft:sheep": "2024-07-19 13:37:27 +0200"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-07-19 13:37:27 +0200"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-07-19 15:18:38 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-07-19 15:18:38 +0200"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-07-19 16:34:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-07-19 16:34:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-07-19 17:00:49 +0200"
+    },
+    "done": true
+  },
+  "candlelight:main/find_wild_crops": {
+    "criteria": {
+      "lettuce": "2024-07-19 19:31:50 +0200"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2024-07-19 20:15:32 +0200"
+    },
+    "done": true
+  },
+  "silentgear:blueprint_paper": {
+    "criteria": {
+      "get_item": "2024-07-19 21:48:47 +0200"
+    },
+    "done": true
+  },
+  "silentgear:big_job_tools": {
+    "criteria": {
+      "hammer": "2024-07-23 14:29:50 +0200",
+      "lumber_axe": "2024-07-19 21:58:29 +0200"
+    },
+    "done": false
+  },
+  "silentgear:kachink2": {
+    "criteria": {
+      "kachink": "2024-07-19 22:01:43 +0200"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2024-07-19 22:04:06 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-07-20 17:11:51 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-07-20 17:14:21 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-07-20 17:15:20 +0200"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-07-20 17:22:51 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-07-20 17:23:41 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-07-20 17:35:43 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "red_grape_seeds": "2024-07-20 23:05:30 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:red_grape_seeds": "2024-07-20 23:05:30 +0200",
+      "vinery:taiga_grape_seeds_red": "2024-07-21 21:51:21 +0200"
+    },
+    "done": false
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2024-07-20 23:06:30 +0200",
+      "sapling": "2024-07-24 22:14:39 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ore": "2024-07-21 19:00:40 +0200",
+      "get_ingot": "2024-07-20 23:06:30 +0200"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2024-07-20 23:06:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-07-20 23:06:30 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-07-20 23:06:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-07-21 13:35:24 +0200"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-07-21 18:11:46 +0200"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2024-07-21 18:16:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-07-21 18:52:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-07-21 18:52:43 +0200"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2024-07-21 18:52:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-07-21 18:59:33 +0200",
+      "minecraft:soul_sand_valley": "2024-07-21 19:03:36 +0200",
+      "minecraft:basalt_deltas": "2024-07-21 18:52:45 +0200"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-07-21 18:57:04 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "taiga": "2024-07-21 21:39:07 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "taiga": "2024-07-21 21:39:07 +0200"
+    },
+    "done": false
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "violet": "2024-07-21 21:45:53 +0200"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-07-21 22:03:00 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "toolsmith": "2024-07-26 00:34:13 +0200",
+      "fletcher": "2024-07-26 14:07:36 +0200",
+      "weaponsmith": "2024-07-24 01:15:49 +0200",
+      "armorer": "2024-07-26 00:28:27 +0200",
+      "farmer": "2024-07-22 01:28:46 +0200"
+    },
+    "done": false
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2024-07-22 01:28:46 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-07-22 01:28:46 +0200"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-07-22 14:41:05 +0200"
+    },
+    "done": true
+  },
+  "create:contraption_actors": {
+    "criteria": {
+      "0": "2024-07-22 14:44:57 +0200"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-07-22 17:40:49 +0200"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2024-07-22 17:40:49 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/root": {
+    "criteria": {
+      "supply_ship_placed": "2024-07-22 20:10:10 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecraft/craft_supply": {
+    "criteria": {
+      "supply_ship": "2024-07-22 20:10:10 +0200"
+    },
+    "done": true
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-07-23 00:43:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-07-24 21:37:19 +0200"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2024-07-24 21:44:14 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2024-07-24 22:09:03 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2024-07-24 22:09:03 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-07-24 22:24:19 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_spruce": "2024-07-24 22:24:19 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-07-24 22:24:58 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-07-24 22:28:11 +0200"
+    },
+    "done": false
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "crude_repair_kit": "2024-07-24 23:36:29 +0200"
+    },
+    "done": true
+  },
+  "silentgear:repair_from_broken": {
+    "criteria": {
+      "repair": "2024-07-24 23:36:45 +0200"
+    },
+    "done": true
+  },
+  "silentgear:template_board": {
+    "criteria": {
+      "get_item": "2024-07-24 23:53:51 +0200"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-07-25 00:09:42 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2024-07-26 00:33:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-07-26 13:20:25 +0200"
+    },
+    "done": true
+  },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2024-07-26 13:39:41 +0200"
+    },
+    "done": false
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-07-26 14:03:47 +0200"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2024-07-26 14:38:13 +0200"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-07-26 14:38:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-07-26 14:38:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-07-26 14:39:17 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-07-28 17:12:25 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-07-28 17:12:25 +0200",
+      "inv_changed-diamond": "2024-07-28 17:12:25 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-07-28 17:12:25 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-07-28 17:12:25 +0200"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-07-28 19:40:25 +0200"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-07-28 23:31:25 +0200"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2024-07-28 23:53:11 +0200"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-07-29 20:21:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-07-29 21:16:04 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-07-29 21:56:11 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/check_out_guide": {
+    "criteria": {
+      "click_gui_button_close": "2024-07-30 00:31:47 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/start_builder": {
+    "criteria": {
+      "builder_request": "2024-07-30 00:31:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:sand_bucket_block": {
+    "criteria": {
+      "has_wooden_shovel": "2024-07-30 00:33:17 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2024-07-30 16:22:08 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_builder": {
+    "criteria": {
+      "builders_hut": "2024-07-30 16:22:08 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2024-07-30 21:31:56 +0200"
+    },
+    "done": true
+  },
+  "herbalbrews:main/find_lavender": {
+    "criteria": {
+      "lavender": "2024-07-30 23:10:04 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2024-07-31 00:07:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-07-30 23:56:53 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
