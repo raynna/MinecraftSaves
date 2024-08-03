@@ -1,0 +1,1092 @@
+{
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_sign": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:sunglasses": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_pressure_plate": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:mini_fridge": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2024-08-02 15:03:52 +0200",
+      "has_black_balloon": "2024-08-02 15:03:52 +0200",
+      "has_lime_balloon": "2024-08-02 15:03:52 +0200",
+      "has_cyan_balloon": "2024-08-02 15:03:52 +0200",
+      "has_light_blue_balloon": "2024-08-02 15:03:52 +0200",
+      "has_gray_balloon": "2024-08-02 15:03:52 +0200",
+      "has_pink_balloon": "2024-08-02 15:03:52 +0200",
+      "has_light_gray_balloon": "2024-08-02 15:03:52 +0200",
+      "has_white_balloon": "2024-08-02 15:03:52 +0200",
+      "has_blue_balloon": "2024-08-02 15:03:52 +0200",
+      "has_yellow_balloon": "2024-08-02 15:03:52 +0200",
+      "has_purple_balloon": "2024-08-02 15:03:52 +0200",
+      "has_orange_balloon": "2024-08-02 15:03:52 +0200",
+      "has_brown_balloon": "2024-08-02 15:03:52 +0200",
+      "has_green_balloon": "2024-08-02 15:03:52 +0200",
+      "has_magenta_balloon": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crested_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_beam": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_door": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:obsidian_stem": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crested_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:hammock": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_apple_press": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_small": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:table": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-08-02 15:03:52 +0200",
+      "inv_changed-diamond": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:cabinet": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_floorboard": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:radio": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:tiki_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:improved_nether_fizz": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grape_seeds": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_grape_crate": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_crimson_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:beach_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_fermentation_barrel": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_nether_bag": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-08-02 16:36:09 +0200",
+      "minecraft:taiga": "2024-08-02 16:06:24 +0200",
+      "minecraft:deep_ocean": "2024-08-02 16:32:23 +0200",
+      "minecraft:frozen_river": "2024-08-02 16:28:44 +0200",
+      "minecraft:birch_forest": "2024-08-02 17:22:32 +0200",
+      "minecraft:windswept_hills": "2024-08-02 17:10:20 +0200",
+      "minecraft:bamboo_jungle": "2024-08-02 17:23:46 +0200",
+      "minecraft:stony_shore": "2024-08-02 15:03:52 +0200",
+      "minecraft:snowy_plains": "2024-08-02 16:28:14 +0200",
+      "minecraft:snowy_taiga": "2024-08-02 16:21:18 +0200",
+      "minecraft:grove": "2024-08-02 17:19:55 +0200",
+      "minecraft:cold_ocean": "2024-08-02 16:03:51 +0200",
+      "minecraft:forest": "2024-08-02 17:15:03 +0200",
+      "minecraft:deep_cold_ocean": "2024-08-02 16:31:31 +0200",
+      "minecraft:ocean": "2024-08-02 16:04:14 +0200",
+      "minecraft:old_growth_spruce_taiga": "2024-08-02 16:30:31 +0200",
+      "minecraft:flower_forest": "2024-08-02 16:04:33 +0200",
+      "minecraft:old_growth_birch_forest": "2024-08-02 17:22:28 +0200",
+      "minecraft:meadow": "2024-08-02 17:18:50 +0200"
+    },
+    "done": false
+  },
+  "beachparty:palm_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_fence_gate": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_fence": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_button": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:improved_lava_fizz": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_wood": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "candlelight:main/root": {
+    "criteria": {
+      "seeds": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:beach_towel": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "beachparty:lounge_chair": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:reinforced_warped_planks": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_mid": {
+    "criteria": {
+      "has_the_recipe": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2024-08-02 15:03:52 +0200"
+    },
+    "done": true
+  },
+  "wythers:world_explorer": {
+    "criteria": {
+      "wythers:sakura_forest": "2024-08-02 17:22:46 +0200",
+      "wythers:boreal_forest_yellow": "2024-08-02 15:18:16 +0200",
+      "wythers:snowy_thermal_taiga": "2024-08-02 17:19:33 +0200",
+      "wythers:icy_crags": "2024-08-02 16:21:25 +0200",
+      "wythers:marsh": "2024-08-02 16:12:25 +0200",
+      "wythers:lantern_river": "2024-08-02 17:22:44 +0200",
+      "wythers:thermal_taiga": "2024-08-02 16:41:51 +0200",
+      "wythers:gravelly_river": "2024-08-02 15:18:07 +0200",
+      "wythers:sparse_bamboo_jungle": "2024-08-02 17:24:00 +0200",
+      "wythers:gravelly_beach": "2024-08-02 16:04:31 +0200",
+      "wythers:cool_stony_canyons": "2024-08-02 17:20:18 +0200",
+      "wythers:temperate_rainforest": "2024-08-02 16:31:11 +0200",
+      "wythers:thermal_taiga_crags": "2024-08-02 16:44:47 +0200",
+      "wythers:boreal_forest_red": "2024-08-02 16:06:10 +0200",
+      "wythers:forested_highlands": "2024-08-02 17:22:34 +0200",
+      "wythers:pine_barrens": "2024-08-02 16:14:47 +0200",
+      "wythers:cold_plains": "2024-08-02 15:17:15 +0200",
+      "wythers:icy_river": "2024-08-02 16:28:48 +0200",
+      "wythers:autumnal_crags": "2024-08-02 16:12:21 +0200",
+      "wythers:cold_stony_shore": "2024-08-02 16:03:52 +0200",
+      "wythers:snowy_tundra": "2024-08-02 16:21:19 +0200",
+      "wythers:taiga_crags": "2024-08-02 16:11:56 +0200",
+      "wythers:cool_plains": "2024-08-02 15:15:02 +0200",
+      "wythers:underground": "2024-08-02 16:15:23 +0200",
+      "wythers:cool_forest_edge": "2024-08-02 15:15:15 +0200",
+      "wythers:ancient_moss_forest": "2024-08-02 17:23:27 +0200",
+      "wythers:autumnal_birch_forest": "2024-08-02 16:13:24 +0200",
+      "wythers:tundra": "2024-08-02 16:06:09 +0200",
+      "wythers:deep_underground": "2024-08-02 22:52:53 +0200",
+      "wythers:fen": "2024-08-02 16:12:24 +0200",
+      "wythers:calcite_coast": "2024-08-02 15:14:28 +0200",
+      "wythers:cool_forest": "2024-08-02 15:04:53 +0200",
+      "wythers:bayou": "2024-08-02 19:05:58 +0200",
+      "wythers:harvest_fields": "2024-08-02 16:04:56 +0200",
+      "wythers:birch_swamp": "2024-08-02 16:45:22 +0200",
+      "wythers:autumnal_swamp": "2024-08-02 16:12:56 +0200",
+      "wythers:sand_dunes": "2024-08-02 15:18:32 +0200",
+      "wythers:larch_taiga": "2024-08-02 16:19:54 +0200",
+      "wythers:deep_snowy_taiga": "2024-08-02 16:28:29 +0200"
+    },
+    "done": false
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2024-08-02 15:05:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-08-02 15:05:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-08-02 15:07:50 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-08-02 15:18:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-02 15:18:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-08-02 15:19:05 +0200"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-08-02 15:19:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-08-02 15:19:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "spider_eye": "2024-08-02 19:04:40 +0200",
+      "potato": "2024-08-02 16:09:25 +0200",
+      "pumpkin_pie": "2024-08-02 23:05:52 +0200",
+      "bread": "2024-08-02 15:19:06 +0200",
+      "golden_apple": "2024-08-02 20:27:52 +0200"
+    },
+    "done": false
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "crimson_repair_kit": "2024-08-02 15:19:22 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_repair_kit": {
+    "criteria": {
+      "get_item": "2024-08-02 15:19:22 +0200"
+    },
+    "done": true
+  },
+  "silentgear:standard_tools": {
+    "criteria": {
+      "pickaxe": "2024-08-02 15:19:23 +0200"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2024-08-02 15:19:23 +0200"
+    },
+    "done": true
+  },
+  "silentgear:big_job_tools": {
+    "criteria": {
+      "hammer": "2024-08-02 15:19:25 +0200",
+      "lumber_axe": "2024-08-02 22:44:08 +0200"
+    },
+    "done": false
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-08-02 15:25:40 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "brewingstand": "2024-08-02 15:26:27 +0200"
+    },
+    "done": false
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "brewingstand": "2024-08-02 15:26:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-08-02 15:28:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-08-02 15:40:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-08-02 16:09:01 +0200",
+      "minecraft:skeleton": "2024-08-02 15:51:24 +0200",
+      "minecraft:vindicator": "2024-08-02 16:08:59 +0200",
+      "minecraft:spider": "2024-08-02 16:13:39 +0200",
+      "minecraft:creeper": "2024-08-02 16:13:51 +0200",
+      "minecraft:wither": "2024-08-02 23:07:21 +0200",
+      "minecraft:slime": "2024-08-02 17:00:29 +0200",
+      "minecraft:phantom": "2024-08-02 18:56:52 +0200",
+      "minecraft:witch": "2024-08-02 16:52:40 +0200",
+      "minecraft:piglin": "2024-08-02 15:45:43 +0200",
+      "minecraft:silverfish": "2024-08-02 16:37:56 +0200",
+      "minecraft:zombie": "2024-08-02 15:40:49 +0200",
+      "minecraft:drowned": "2024-08-02 15:42:13 +0200",
+      "minecraft:zombie_villager": "2024-08-02 16:46:08 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-08-02 15:40:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-08-02 15:45:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-08-02 15:45:16 +0200"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2024-08-02 15:45:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-08-02 15:46:33 +0200",
+      "minecraft:nether_wastes": "2024-08-02 15:45:36 +0200",
+      "minecraft:soul_sand_valley": "2024-08-02 15:46:04 +0200",
+      "minecraft:basalt_deltas": "2024-08-02 15:45:17 +0200",
+      "minecraft:warped_forest": "2024-08-02 15:58:45 +0200"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-08-02 15:46:59 +0200",
+      "baby_creeper": "2024-08-02 22:57:36 +0200"
+    },
+    "done": false
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-08-02 15:47:01 +0200"
+    },
+    "done": true
+  },
+  "silentgear:kachink1": {
+    "criteria": {
+      "kachink": "2024-08-02 15:48:21 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ore": "2024-08-02 15:48:53 +0200"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-08-02 15:53:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-08-02 15:54:12 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-08-02 15:56:46 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2024-08-02 15:58:00 +0200"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-08-02 15:58:00 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-08-02 16:05:14 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-08-02 16:09:07 +0200",
+      "witch_villa": "2024-08-02 16:52:17 +0200"
+    },
+    "done": false
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2024-08-02 16:09:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-08-02 16:09:12 +0200"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-08-02 16:10:08 +0200"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-08-02 16:10:08 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "taiga": "2024-08-02 16:18:02 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "taiga": "2024-08-02 16:18:02 +0200",
+      "snowy": "2024-08-02 16:21:19 +0200"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-08-02 16:20:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-08-02 16:27:08 +0200"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/cladding_template": {
+    "criteria": {
+      "get_disc": "2024-08-02 16:40:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-08-02 16:45:53 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2024-08-02 16:48:19 +0200"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2024-08-02 16:48:19 +0200"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/obtain_peat": {
+    "criteria": {
+      "create_peat": "2024-08-02 16:51:53 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_witch_villa": "2024-08-02 16:52:17 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_witch_villa": {
+    "criteria": {
+      "nova_structures:witch_villa": "2024-08-02 16:52:17 +0200"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "green": "2024-08-02 17:16:26 +0200",
+      "violet": "2024-08-02 17:16:14 +0200"
+    },
+    "done": false
+  },
+  "meadow:main/find_meadow": {
+    "criteria": {
+      "meadow": "2024-08-02 17:18:50 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-08-02 17:23:06 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/wild_crops": {
+    "criteria": {
+      "red_jungle_grape_seeds": "2024-08-02 19:01:45 +0200"
+    },
+    "done": true
+  },
+  "vinery:main/crop_collector": {
+    "criteria": {
+      "vinery:jungle_grape_seeds_red": "2024-08-02 19:01:45 +0200",
+      "vinery:jungle_grape_seeds_white": "2024-08-02 19:02:32 +0200"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-08-02 19:08:42 +0200"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2024-08-02 19:10:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-08-02 19:10:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-08-02 20:11:08 +0200"
+    },
+    "done": true
+  },
+  "silentgear:repair_from_broken": {
+    "criteria": {
+      "repair": "2024-08-02 20:48:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-08-02 22:41:24 +0200"
+    },
+    "done": true
+  },
+  "silentgear:tip_upgrade": {
+    "criteria": {
+      "get_item": "2024-08-02 22:58:21 +0200"
+    },
+    "done": true
+  },
+  "silentgear:kachink2": {
+    "criteria": {
+      "kachink": "2024-08-02 22:47:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-08-02 23:04:59 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

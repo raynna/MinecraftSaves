@@ -430,7 +430,9 @@
       "minecraft:grove": "2024-07-20 17:49:57 +0200",
       "minecraft:cold_ocean": "2024-07-18 20:58:12 +0200",
       "minecraft:forest": "2024-07-19 19:30:59 +0200",
+      "minecraft:deep_cold_ocean": "2024-08-02 16:01:20 +0200",
       "minecraft:ocean": "2024-07-19 20:38:46 +0200",
+      "minecraft:flower_forest": "2024-08-02 16:04:30 +0200",
       "minecraft:old_growth_birch_forest": "2024-07-19 19:40:44 +0200",
       "minecraft:meadow": "2024-07-17 13:58:17 +0200"
     },
@@ -522,14 +524,18 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:highland_plains": "2024-08-01 23:56:45 +0200",
+      "wythers:autumnal_plains": "2024-08-01 23:51:49 +0200",
       "wythers:boreal_forest_yellow": "2024-07-17 21:05:09 +0200",
       "wythers:snowy_peaks": "2024-07-20 17:47:17 +0200",
       "wythers:icy_crags": "2024-07-30 23:53:10 +0200",
       "wythers:autumnal_forest": "2024-07-20 17:40:44 +0200",
+      "wythers:autumnal_forest_edge": "2024-08-01 23:51:54 +0200",
       "wythers:black_beach": "2024-07-24 22:30:24 +0200",
       "wythers:gravelly_river": "2024-07-17 23:27:02 +0200",
       "wythers:gravelly_beach": "2024-07-18 20:52:29 +0200",
       "wythers:cool_stony_canyons": "2024-07-18 20:59:56 +0200",
+      "wythers:birch_taiga": "2024-08-01 23:57:54 +0200",
       "wythers:temperate_rainforest": "2024-07-24 22:13:55 +0200",
       "wythers:boreal_forest_red": "2024-07-21 21:31:46 +0200",
       "wythers:forested_highlands": "2024-07-20 17:47:01 +0200",
@@ -696,6 +702,7 @@
       "potato": "2024-07-26 15:06:13 +0200",
       "cooked_cod": "2024-07-23 14:32:59 +0200",
       "bread": "2024-07-18 21:03:43 +0200",
+      "golden_apple": "2024-08-01 00:07:16 +0200",
       "golden_carrot": "2024-07-21 14:31:04 +0200",
       "cooked_chicken": "2024-07-21 15:09:19 +0200",
       "carrot": "2024-07-17 21:19:23 +0200"
@@ -726,6 +733,7 @@
       "sugar_cane": "2024-07-22 18:31:43 +0200",
       "potato": "2024-07-22 14:48:00 +0200",
       "wheat": "2024-07-17 21:24:55 +0200",
+      "pumpkin": "2024-08-02 00:26:59 +0200",
       "carrot": "2024-07-17 21:25:01 +0200"
     },
     "done": false
@@ -761,6 +769,7 @@
       "blueprinttable": "2024-07-21 21:48:55 +0200",
       "oceanographytable": "2024-07-21 21:41:36 +0200",
       "fletchingtable": "2024-07-24 22:10:04 +0200",
+      "brewingstand": "2024-08-01 01:06:21 +0200",
       "grindstone": "2024-07-18 20:29:02 +0200",
       "gardeningtable": "2024-07-24 22:21:36 +0200",
       "smoker": "2024-07-18 20:56:48 +0200",
@@ -784,6 +793,7 @@
       "minecraft:pillager": "2024-07-24 22:00:35 +0200",
       "minecraft:blaze": "2024-07-26 14:38:30 +0200",
       "minecraft:skeleton": "2024-07-21 23:19:59 +0200",
+      "minecraft:hoglin": "2024-08-01 17:57:47 +0200",
       "minecraft:guardian": "2024-07-22 20:22:15 +0200",
       "minecraft:vindicator": "2024-07-22 12:24:14 +0200",
       "minecraft:magma_cube": "2024-07-21 18:57:46 +0200",
@@ -791,6 +801,9 @@
       "minecraft:creeper": "2024-07-24 01:10:58 +0200",
       "quark:forgotten": "2024-07-29 17:43:34 +0200",
       "minecraft:wither_skeleton": "2024-07-26 14:38:27 +0200",
+      "minecraft:shulker": "2024-08-01 00:28:21 +0200",
+      "minecraft:cave_spider": "2024-07-31 22:58:29 +0200",
+      "quark:wraith": "2024-07-31 22:46:19 +0200",
       "minecraft:piglin": "2024-07-21 19:03:52 +0200",
       "minecraft:enderman": "2024-07-23 15:23:35 +0200",
       "minecraft:silverfish": "2024-07-29 21:42:05 +0200",
@@ -956,7 +969,11 @@
   },
   "vinery:main/crop_collector": {
     "criteria": {
+      "vinery:white_grape_seeds": "2024-08-01 15:09:19 +0200",
+      "vinery:jungle_grape_seeds_white": "2024-08-01 17:26:52 +0200",
       "vinery:red_grape_seeds": "2024-07-20 23:05:30 +0200",
+      "vinery:savanna_grape_seeds_white": "2024-08-01 15:09:30 +0200",
+      "vinery:taiga_grape_seeds_white": "2024-08-01 16:23:56 +0200",
       "vinery:taiga_grape_seeds_red": "2024-07-21 21:51:21 +0200"
     },
     "done": false
@@ -1031,6 +1048,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-08-01 17:52:50 +0200",
       "minecraft:nether_wastes": "2024-07-21 18:59:33 +0200",
       "minecraft:soul_sand_valley": "2024-07-21 19:03:36 +0200",
       "minecraft:basalt_deltas": "2024-07-21 18:52:45 +0200"
@@ -1071,6 +1089,7 @@
     "criteria": {
       "toolsmith": "2024-07-26 00:34:13 +0200",
       "fletcher": "2024-07-26 14:07:36 +0200",
+      "librarian": "2024-07-31 16:23:44 +0200",
       "weaponsmith": "2024-07-24 01:15:49 +0200",
       "armorer": "2024-07-26 00:28:27 +0200",
       "farmer": "2024-07-22 01:28:46 +0200"
@@ -1354,15 +1373,165 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-07-30 23:56:53 +0200"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/build_town_hall": {
     "criteria": {
       "town_hall": "2024-07-31 00:07:09 +0200"
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "mekanism:materials": {
     "criteria": {
-      "in_stronghold": "2024-07-30 23:56:53 +0200"
+      "material": "2024-07-31 18:38:02 +0200"
+    },
+    "done": true
+  },
+  "silentgear:armor": {
+    "criteria": {
+      "chestplate": "2024-07-31 21:43:36 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2024-07-31 22:45:26 +0200"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2024-08-01 00:03:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-08-01 00:03:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-08-01 00:03:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-08-01 00:16:17 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-08-01 00:26:09 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2024-08-01 00:26:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-08-01 00:28:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-08-01 01:05:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-08-01 01:06:02 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_warehouse": {
+    "criteria": {
+      "warehouse": "2024-08-01 02:33:43 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_delivery_person": {
+    "criteria": {
+      "delivery_person": "2024-08-01 15:04:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-08-01 17:47:31 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2024-08-01 17:58:00 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2024-08-01 19:10:01 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "tavern": "2024-08-01 19:56:47 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2024-08-01 20:16:49 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2024-08-01 22:24:48 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2024-08-01 22:24:48 +0200"
+    },
+    "done": true
+  },
+  "candlelight:main/find_rose": {
+    "criteria": {
+      "rose": "2024-08-01 23:54:16 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_cook": {
+    "criteria": {
+      "cook": "2024-08-02 00:32:40 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_all_herders": {
+    "criteria": {
+      "cows": "2024-08-02 14:14:47 +0200"
+    },
+    "done": false
+  },
+  "minecolonies:minecolonies/citizen_eat_food_rotten_flesh": {
+    "criteria": {
+      "citizen_eat_rotten_flesh": "2024-08-02 23:40:50 +0200"
     },
     "done": true
   },

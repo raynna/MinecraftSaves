@@ -455,9 +455,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-07-21 18:28:32 +0200",
+      "minecraft:deep_ocean": "2024-08-01 14:37:02 +0200",
       "minecraft:sunflower_plains": "2024-07-22 00:58:13 +0200",
       "minecraft:birch_forest": "2024-07-21 22:11:09 +0200",
       "minecraft:windswept_hills": "2024-07-30 14:00:04 +0200",
+      "minecraft:bamboo_jungle": "2024-08-01 14:23:33 +0200",
       "minecraft:beach": "2024-07-30 14:13:07 +0200",
       "minecraft:lukewarm_ocean": "2024-07-30 14:05:25 +0200",
       "minecraft:stony_shore": "2024-07-21 13:16:18 +0200",
@@ -474,6 +476,7 @@
       "minecraft:ocean": "2024-07-21 13:21:41 +0200",
       "minecraft:windswept_savanna": "2024-07-30 13:43:20 +0200",
       "minecraft:flower_forest": "2024-07-22 00:29:56 +0200",
+      "minecraft:frozen_peaks": "2024-08-01 15:47:39 +0200",
       "minecraft:old_growth_birch_forest": "2024-07-21 23:14:50 +0200",
       "minecraft:deep_dark": "2024-07-29 21:55:13 +0200",
       "minecraft:meadow": "2024-07-21 22:50:38 +0200",
@@ -610,6 +613,7 @@
   },
   "wythers:world_explorer": {
     "criteria": {
+      "wythers:sakura_forest": "2024-08-01 14:20:13 +0200",
       "wythers:andesite_crags": "2024-07-30 13:43:45 +0200",
       "wythers:autumnal_plains": "2024-07-30 14:19:56 +0200",
       "wythers:forest_edge": "2024-07-30 13:39:32 +0200",
@@ -619,9 +623,13 @@
       "wythers:autumnal_forest": "2024-07-21 23:14:49 +0200",
       "wythers:wistman_woods": "2024-07-30 03:26:58 +0200",
       "wythers:autumnal_forest_edge": "2024-07-30 14:22:16 +0200",
+      "wythers:lantern_river": "2024-08-01 14:19:08 +0200",
       "wythers:gravelly_river": "2024-07-21 13:30:22 +0200",
+      "wythers:sparse_bamboo_jungle": "2024-08-01 14:20:48 +0200",
       "wythers:gravelly_beach": "2024-07-21 21:24:26 +0200",
       "wythers:cool_stony_canyons": "2024-07-21 18:38:43 +0200",
+      "wythers:birch_taiga": "2024-08-01 14:57:13 +0200",
+      "wythers:stony_canyon": "2024-08-01 14:24:50 +0200",
       "wythers:boreal_forest_red": "2024-07-26 13:55:41 +0200",
       "wythers:savanna_river": "2024-07-30 13:40:40 +0200",
       "wythers:pine_barrens": "2024-07-30 14:54:22 +0200",
@@ -630,6 +638,7 @@
       "wythers:ancient_golden_beech_forest": "2024-07-30 03:28:57 +0200",
       "wythers:tropical_beach": "2024-07-30 13:42:41 +0200",
       "wythers:waterlily_swamp": "2024-07-30 22:25:25 +0200",
+      "wythers:jungle_river": "2024-08-01 14:20:25 +0200",
       "wythers:cold_stony_shore": "2024-07-21 13:33:31 +0200",
       "wythers:snowy_tundra": "2024-07-30 18:23:02 +0200",
       "wythers:jacaranda_savanna": "2024-07-30 22:35:39 +0200",
@@ -638,16 +647,19 @@
       "wythers:underground": "2024-07-21 17:42:31 +0200",
       "wythers:mushroom_caves": "2024-07-30 03:38:45 +0200",
       "wythers:cool_forest_edge": "2024-07-21 13:20:42 +0200",
+      "wythers:ancient_moss_forest": "2024-08-01 14:33:46 +0200",
       "wythers:crimson_tundra": "2024-07-30 03:15:15 +0200",
       "wythers:spring_flower_forest": "2024-07-30 22:30:34 +0200",
       "wythers:tundra": "2024-07-30 03:14:48 +0200",
       "wythers:windswept_jungle": "2024-07-30 22:24:32 +0200",
+      "wythers:warm_birch_forest": "2024-08-01 15:35:30 +0200",
       "wythers:wooded_savanna": "2024-07-30 14:10:56 +0200",
       "wythers:ancient_oak_swamp": "2024-07-30 03:26:28 +0200",
       "wythers:deep_underground": "2024-07-23 15:17:10 +0200",
       "wythers:calcite_coast": "2024-07-21 13:19:47 +0200",
       "wythers:cool_forest": "2024-07-21 13:20:54 +0200",
       "wythers:bayou": "2024-07-30 22:25:24 +0200",
+      "wythers:jade_highlands": "2024-08-01 14:24:59 +0200",
       "wythers:coastal_mangroves": "2024-07-30 14:05:46 +0200",
       "wythers:ancient_emerald_beech_forest": "2024-07-30 03:22:37 +0200",
       "wythers:subtropical_forest": "2024-07-30 22:14:37 +0200",
@@ -692,16 +704,22 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2024-08-01 14:28:03 +0200",
+      "chorus_fruit": "2024-08-01 02:17:25 +0200",
       "beef": "2024-07-21 21:21:45 +0200",
       "baked_potato": "2024-07-23 14:53:09 +0200",
+      "spider_eye": "2024-08-01 13:59:24 +0200",
       "potato": "2024-07-23 14:47:28 +0200",
       "cooked_cod": "2024-07-22 00:52:50 +0200",
       "pumpkin_pie": "2024-07-21 21:44:48 +0200",
       "bread": "2024-07-21 13:37:15 +0200",
       "golden_apple": "2024-07-26 14:38:35 +0200",
+      "rotten_flesh": "2024-08-01 13:51:04 +0200",
       "salmon": "2024-07-21 21:54:16 +0200",
+      "melon_slice": "2024-08-01 14:33:43 +0200",
       "golden_carrot": "2024-07-30 15:43:27 +0200",
-      "cod": "2024-07-21 22:25:48 +0200"
+      "cod": "2024-07-21 22:25:48 +0200",
+      "carrot": "2024-08-01 14:23:33 +0200"
     },
     "done": false
   },
@@ -749,11 +767,13 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2024-07-31 12:29:12 +0200",
       "blueprinttable": "2024-07-30 13:47:19 +0200",
       "brewingstand": "2024-07-22 01:28:11 +0200",
       "smithingtable": "2024-07-21 14:13:17 +0200",
       "smoker": "2024-07-21 18:27:03 +0200",
       "loom": "2024-07-30 15:17:46 +0200",
+      "blastfurnace": "2024-08-01 02:27:54 +0200",
       "lectern": "2024-07-22 01:05:14 +0200",
       "composter": "2024-07-21 18:26:55 +0200"
     },
@@ -770,7 +790,10 @@
       "minecraft:blaze": "2024-07-26 14:38:18 +0200",
       "minecraft:pillager": "2024-07-30 14:02:42 +0200",
       "minecraft:skeleton": "2024-07-21 18:33:27 +0200",
+      "minecraft:elder_guardian": "2024-08-01 14:50:41 +0200",
+      "minecraft:ghast": "2024-07-31 22:36:45 +0200",
       "minecraft:hoglin": "2024-07-30 16:10:40 +0200",
+      "minecraft:guardian": "2024-08-01 14:40:32 +0200",
       "minecraft:vindicator": "2024-07-30 14:04:01 +0200",
       "minecraft:magma_cube": "2024-07-26 14:32:38 +0200",
       "minecraft:spider": "2024-07-21 18:16:54 +0200",
@@ -782,6 +805,8 @@
       "minecraft:zombified_piglin": "2024-07-26 14:57:58 +0200",
       "minecraft:witch": "2024-07-23 14:46:17 +0200",
       "minecraft:wither_skeleton": "2024-07-26 15:09:25 +0200",
+      "minecraft:ender_dragon": "2024-08-01 00:11:28 +0200",
+      "minecraft:shulker": "2024-08-01 00:28:47 +0200",
       "minecraft:cave_spider": "2024-07-29 22:26:20 +0200",
       "quark:wraith": "2024-07-30 15:37:17 +0200",
       "minecraft:piglin": "2024-07-21 19:00:30 +0200",
@@ -822,6 +847,7 @@
     "criteria": {
       "cabbage": "2024-07-21 14:41:27 +0200",
       "sweet_berries": "2024-07-21 14:41:43 +0200",
+      "sugar_cane": "2024-08-01 02:20:11 +0200",
       "wheat": "2024-07-21 14:32:58 +0200",
       "pumpkin": "2024-07-21 14:40:54 +0200"
     },
@@ -953,6 +979,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "librarian": "2024-07-31 21:51:38 +0200",
+      "weaponsmith": "2024-08-01 14:37:55 +0200",
       "armorer": "2024-07-29 21:14:16 +0200",
       "fisherman": "2024-07-22 00:28:41 +0200"
     },
@@ -1090,6 +1118,7 @@
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
       "minecraft:fortress": "2024-07-26 14:38:09 +0200",
+      "nova_structures:nether_port": "2024-08-01 17:12:14 +0200",
       "nova_structures:nether_skeleton_tower_basalt": "2024-07-30 16:31:38 +0200"
     },
     "done": false
@@ -1308,7 +1337,8 @@
   "nova_structures:nether/find_piglins": {
     "criteria": {
       "nova_structures:piglin_outstation": "2024-07-30 16:47:31 +0200",
-      "nova_structures:piglin_camp": "2024-07-30 16:50:39 +0200"
+      "nova_structures:piglin_camp": "2024-07-30 16:50:39 +0200",
+      "nova_structures:hamlet": "2024-08-02 02:42:30 +0200"
     },
     "done": false
   },
@@ -1405,6 +1435,175 @@
   "silentgear:tip_upgrade": {
     "criteria": {
       "get_item": "2024-07-30 23:27:07 +0200"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2024-07-31 20:47:52 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2024-07-31 23:05:54 +0200"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-07-31 23:25:38 +0200"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2024-08-01 00:03:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-08-01 00:03:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-08-01 00:03:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-08-01 00:11:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-08-01 00:16:26 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2024-08-01 00:25:26 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-08-01 00:25:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-08-01 00:28:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-08-01 00:39:58 +0200"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-08-01 14:22:37 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2024-08-01 15:06:15 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2024-08-01 15:06:15 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2024-08-01 15:06:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-08-01 17:00:13 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2024-08-01 17:08:38 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_port": {
+    "criteria": {
+      "nova_structures:nether_port": "2024-08-01 17:12:14 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2024-08-02 02:29:55 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_repair_kit": {
+    "criteria": {
+      "get_item": "2024-08-02 02:30:02 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ore": "2024-08-02 02:34:23 +0200",
+      "get_ingot": "2024-08-02 02:36:31 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_electrum": {
+    "criteria": {
+      "get_ingot": "2024-08-02 02:36:42 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_repair_kit": {
+    "criteria": {
+      "get_item": "2024-08-02 02:37:42 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_hamlet": {
+    "criteria": {
+      "nova_structures:hamlet": "2024-08-02 02:42:30 +0200"
+    },
+    "done": true
+  },
+  "quark:apply_color_rune": {
+    "criteria": {
+      "rune_orange": "2024-08-02 03:40:25 +0200"
+    },
+    "done": true
+  },
+  "candlelight:main/find_rose": {
+    "criteria": {
+      "rose": "2024-08-02 03:52:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2024-08-02 03:57:12 +0200"
     },
     "done": true
   },
