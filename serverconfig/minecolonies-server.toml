@@ -89,7 +89,7 @@
 	minColonyDistance = 12
 	#Initial claim size for a colony. This is the radius, measured in chunks. [Default: 4, min: 1, max: 15]
 	#Range: 1 ~ 15
-	initialColonySize = 4
+	initialColonySize = 6
 	#Max distance (in blocks) from world spawn for a colony. [Default: 30000, min: 1000, max: 2147483647]
 	#Range: > 1000
 	maxdistancefromworldspawn = 30000
