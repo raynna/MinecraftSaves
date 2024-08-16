@@ -431,19 +431,25 @@
       "minecraft:mangrove_swamp": "2024-08-05 21:21:35 +0200",
       "minecraft:sparse_jungle": "2024-08-05 21:34:34 +0200",
       "minecraft:lukewarm_ocean": "2024-08-05 19:45:05 +0200",
+      "minecraft:river": "2024-08-14 20:18:47 +0200",
       "minecraft:stony_shore": "2024-07-17 13:57:48 +0200",
+      "minecraft:snowy_plains": "2024-08-14 18:43:50 +0200",
       "minecraft:dripstone_caves": "2024-07-30 23:55:30 +0200",
       "minecraft:snowy_taiga": "2024-07-30 23:53:11 +0200",
       "minecraft:grove": "2024-07-20 17:49:57 +0200",
+      "minecraft:swamp": "2024-08-14 23:15:17 +0200",
+      "minecraft:jagged_peaks": "2024-08-13 19:32:51 +0200",
       "minecraft:cold_ocean": "2024-07-18 20:58:12 +0200",
       "minecraft:forest": "2024-07-19 19:30:59 +0200",
       "minecraft:deep_cold_ocean": "2024-08-02 16:01:20 +0200",
+      "minecraft:windswept_forest": "2024-08-14 23:15:17 +0200",
       "minecraft:ocean": "2024-07-19 20:38:46 +0200",
       "minecraft:jungle": "2024-08-05 22:12:39 +0200",
       "minecraft:flower_forest": "2024-08-02 16:04:30 +0200",
       "minecraft:old_growth_birch_forest": "2024-07-19 19:40:44 +0200",
       "minecraft:meadow": "2024-07-17 13:58:17 +0200",
-      "minecraft:savanna": "2024-08-05 19:11:24 +0200"
+      "minecraft:savanna": "2024-08-05 19:11:24 +0200",
+      "minecraft:plains": "2024-08-13 19:08:21 +0200"
     },
     "done": false
   },
@@ -539,15 +545,19 @@
       "wythers:highland_plains": "2024-08-01 23:56:45 +0200",
       "wythers:tropical_forest_canyon": "2024-08-05 19:47:45 +0200",
       "wythers:autumnal_plains": "2024-08-01 23:51:49 +0200",
+      "wythers:flooded_rainforest": "2024-08-14 23:16:57 +0200",
       "wythers:forest_edge": "2024-08-06 17:58:32 +0200",
       "wythers:boreal_forest_yellow": "2024-07-17 21:05:09 +0200",
       "wythers:snowy_peaks": "2024-07-20 17:47:17 +0200",
       "wythers:warm_stony_shore": "2024-08-05 19:01:01 +0200",
       "wythers:icy_crags": "2024-07-30 23:53:10 +0200",
+      "wythers:lapacho_plains": "2024-08-13 19:15:12 +0200",
+      "wythers:snowy_thermal_taiga": "2024-08-14 18:43:52 +0200",
       "wythers:autumnal_forest": "2024-07-20 17:40:44 +0200",
       "wythers:autumnal_forest_edge": "2024-08-01 23:51:54 +0200",
       "wythers:lantern_river": "2024-08-05 18:39:11 +0200",
       "wythers:black_beach": "2024-07-24 22:30:24 +0200",
+      "wythers:thermal_taiga": "2024-08-15 16:12:25 +0200",
       "wythers:gravelly_river": "2024-07-17 23:27:02 +0200",
       "wythers:sparse_bamboo_jungle": "2024-08-05 18:41:41 +0200",
       "wythers:gravelly_beach": "2024-07-18 20:52:29 +0200",
@@ -555,19 +565,26 @@
       "wythers:birch_taiga": "2024-08-01 23:57:54 +0200",
       "wythers:temperate_rainforest": "2024-07-24 22:13:55 +0200",
       "wythers:stony_canyon": "2024-08-06 17:47:51 +0200",
+      "wythers:thermal_taiga_crags": "2024-08-15 16:18:26 +0200",
       "wythers:boreal_forest_red": "2024-07-21 21:31:46 +0200",
       "wythers:forested_highlands": "2024-07-20 17:47:01 +0200",
       "wythers:tsingy_forest": "2024-08-05 19:44:45 +0200",
       "wythers:savanna_river": "2024-08-05 19:11:22 +0200",
       "wythers:pine_barrens": "2024-07-24 22:12:59 +0200",
       "wythers:cold_plains": "2024-07-17 21:00:00 +0200",
+      "wythers:icy_river": "2024-08-14 18:43:42 +0200",
       "wythers:humid_tropical_grassland": "2024-08-05 19:25:47 +0200",
+      "wythers:ancient_golden_beech_forest": "2024-08-14 23:15:30 +0200",
       "wythers:tropical_forest": "2024-08-05 19:06:08 +0200",
       "wythers:tropical_beach": "2024-08-05 19:44:56 +0200",
+      "wythers:waterlily_swamp": "2024-08-14 23:15:59 +0200",
       "wythers:savanna_badlands": "2024-08-05 19:54:30 +0200",
       "wythers:jungle_river": "2024-08-05 18:41:40 +0200",
       "wythers:cold_stony_shore": "2024-07-17 21:05:28 +0200",
+      "wythers:snowy_tundra": "2024-08-14 18:43:34 +0200",
+      "wythers:jacaranda_savanna": "2024-08-13 19:14:58 +0200",
       "wythers:cool_plains": "2024-07-17 20:52:39 +0200",
+      "wythers:spring_flower_fields": "2024-08-13 19:08:22 +0200",
       "wythers:underground": "2024-07-19 13:11:41 +0200",
       "wythers:cool_forest_edge": "2024-07-17 20:52:53 +0200",
       "wythers:ancient_moss_forest": "2024-08-05 18:39:39 +0200",
@@ -575,23 +592,32 @@
       "wythers:crimson_tundra": "2024-07-21 21:33:09 +0200",
       "wythers:tropical_rainforest": "2024-08-05 19:44:23 +0200",
       "wythers:dripleaf_swamp": "2024-08-05 21:21:21 +0200",
+      "wythers:spring_flower_forest": "2024-08-13 19:09:12 +0200",
       "wythers:tundra": "2024-07-21 21:31:28 +0200",
       "wythers:windswept_jungle": "2024-08-05 21:53:07 +0200",
       "wythers:warm_birch_forest": "2024-08-05 18:45:13 +0200",
       "wythers:wooded_savanna": "2024-08-05 19:42:26 +0200",
       "wythers:sandy_jungle": "2024-08-05 21:33:53 +0200",
+      "wythers:ancient_oak_swamp": "2024-08-14 23:15:31 +0200",
       "wythers:deep_underground": "2024-07-21 13:34:43 +0200",
       "wythers:granite_canyon": "2024-08-05 19:48:12 +0200",
+      "wythers:fen": "2024-08-15 16:11:55 +0200",
       "wythers:calcite_coast": "2024-07-17 14:01:58 +0200",
       "wythers:cool_forest": "2024-07-17 13:57:55 +0200",
       "wythers:bayou": "2024-08-05 19:01:08 +0200",
       "wythers:jade_highlands": "2024-08-05 18:44:06 +0200",
+      "wythers:volcanic_chamber": "2024-08-15 23:10:52 +0200",
       "wythers:coastal_mangroves": "2024-08-05 19:45:01 +0200",
       "wythers:subtropical_forest": "2024-08-05 18:46:26 +0200",
       "wythers:harvest_fields": "2024-08-06 17:47:58 +0200",
       "wythers:pantanal": "2024-08-05 21:27:26 +0200",
+      "wythers:birch_swamp": "2024-08-14 23:15:18 +0200",
+      "wythers:autumnal_swamp": "2024-08-15 16:11:04 +0200",
       "wythers:sand_dunes": "2024-07-17 23:27:17 +0200",
-      "wythers:larch_taiga": "2024-07-19 20:27:42 +0200"
+      "wythers:larch_taiga": "2024-07-19 20:27:42 +0200",
+      "wythers:subtropical_forest_edge": "2024-08-13 19:05:02 +0200",
+      "wythers:bamboo_jungle_highlands": "2024-08-13 19:24:13 +0200",
+      "wythers:subtropical_grassland": "2024-08-13 19:05:03 +0200"
     },
     "done": false
   },
@@ -735,9 +761,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-08-13 22:33:41 +0200",
       "cooked_mutton": "2024-07-17 21:14:58 +0200",
       "cooked_beef": "2024-07-19 16:42:13 +0200",
       "baked_potato": "2024-07-26 15:14:51 +0200",
+      "apple": "2024-08-14 00:38:24 +0200",
       "potato": "2024-07-26 15:06:13 +0200",
       "cooked_cod": "2024-07-23 14:32:59 +0200",
       "pumpkin_pie": "2024-08-07 19:08:00 +0200",
@@ -773,6 +801,7 @@
     "criteria": {
       "sugar_cane": "2024-07-22 18:31:43 +0200",
       "potato": "2024-07-22 14:48:00 +0200",
+      "nether_wart": "2024-08-10 19:34:30 +0200",
       "wheat": "2024-07-17 21:24:55 +0200",
       "pumpkin": "2024-08-02 00:26:59 +0200",
       "carrot": "2024-07-17 21:25:01 +0200"
@@ -816,9 +845,11 @@
       "smoker": "2024-07-18 20:56:48 +0200",
       "smithingtable": "2024-07-21 21:51:34 +0200",
       "blastfurnace": "2024-07-24 00:28:56 +0200",
+      "loom": "2024-08-15 16:25:01 +0200",
       "lectern": "2024-07-20 17:57:52 +0200",
       "woodworkingtable": "2024-07-21 21:41:09 +0200",
       "stonecutter": "2024-07-21 14:44:03 +0200",
+      "cauldron": "2024-08-11 23:04:29 +0200",
       "composter": "2024-07-22 00:45:37 +0200"
     },
     "done": false
@@ -834,6 +865,7 @@
       "minecraft:pillager": "2024-07-24 22:00:35 +0200",
       "minecraft:blaze": "2024-07-26 14:38:30 +0200",
       "minecraft:skeleton": "2024-07-21 23:19:59 +0200",
+      "minecraft:ghast": "2024-08-11 17:41:56 +0200",
       "minecraft:hoglin": "2024-08-01 17:57:47 +0200",
       "minecraft:guardian": "2024-07-22 20:22:15 +0200",
       "minecraft:vindicator": "2024-07-22 12:24:14 +0200",
@@ -841,11 +873,14 @@
       "minecraft:spider": "2024-07-19 13:37:16 +0200",
       "minecraft:piglin_brute": "2024-08-07 18:50:34 +0200",
       "minecraft:creeper": "2024-07-24 01:10:58 +0200",
+      "minecraft:slime": "2024-08-14 22:56:17 +0200",
       "quark:forgotten": "2024-07-29 17:43:34 +0200",
       "minecraft:phantom": "2024-08-05 14:34:27 +0200",
       "minecraft:zombified_piglin": "2024-08-04 19:24:21 +0200",
       "minecraft:witch": "2024-08-04 19:39:18 +0200",
       "minecraft:wither_skeleton": "2024-07-26 14:38:27 +0200",
+      "minecraft:husk": "2024-08-13 22:19:38 +0200",
+      "minecraft:ender_dragon": "2024-08-10 15:16:56 +0200",
       "minecraft:shulker": "2024-08-01 00:28:21 +0200",
       "minecraft:cave_spider": "2024-07-31 22:58:29 +0200",
       "quark:wraith": "2024-07-31 22:46:19 +0200",
@@ -880,7 +915,8 @@
   },
   "brewery:main/crop_collector": {
     "criteria": {
-      "brewery:hops": "2024-07-18 21:07:38 +0200"
+      "brewery:hops": "2024-07-18 21:07:38 +0200",
+      "brewery:corn": "2024-08-15 16:36:05 +0200"
     },
     "done": false
   },
@@ -1098,9 +1134,10 @@
       "minecraft:crimson_forest": "2024-08-01 17:52:50 +0200",
       "minecraft:nether_wastes": "2024-07-21 18:59:33 +0200",
       "minecraft:soul_sand_valley": "2024-07-21 19:03:36 +0200",
-      "minecraft:basalt_deltas": "2024-07-21 18:52:45 +0200"
+      "minecraft:basalt_deltas": "2024-07-21 18:52:45 +0200",
+      "minecraft:warped_forest": "2024-08-10 21:17:32 +0200"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
@@ -1117,12 +1154,14 @@
   "morevillagers:all_villages": {
     "criteria": {
       "taiga": "2024-07-21 21:39:07 +0200",
-      "savanna": "2024-08-05 19:11:25 +0200"
+      "savanna": "2024-08-05 19:11:25 +0200",
+      "plains": "2024-08-13 19:05:01 +0200"
     },
     "done": false
   },
   "quark:get_all_corundum": {
     "criteria": {
+      "orange": "2024-08-14 19:06:01 +0200",
       "violet": "2024-07-21 21:45:53 +0200"
     },
     "done": false
@@ -1242,6 +1281,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2024-08-13 19:33:58 +0200",
       "illager_camp": "2024-07-24 22:28:11 +0200"
     },
     "done": false
@@ -1284,19 +1324,24 @@
   },
   "silentgear:standard_tools": {
     "criteria": {
-      "pickaxe": "2024-07-26 13:39:41 +0200"
+      "pickaxe": "2024-07-26 13:39:41 +0200",
+      "shovel": "2024-08-15 21:06:31 +0200"
     },
     "done": false
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2024-07-26 14:03:47 +0200"
+      "0": "2024-07-26 14:03:47 +0200",
+      "1": "2024-08-15 01:16:23 +0200"
     },
-    "done": false
+    "done": true
   },
   "nova_structures:nether/find_nether_skeleton": {
     "criteria": {
-      "minecraft:fortress": "2024-07-26 14:38:13 +0200"
+      "minecraft:fortress": "2024-07-26 14:38:13 +0200",
+      "nova_structures:skeleton_camp_crimson": "2024-08-10 21:14:40 +0200",
+      "minecraft:nether_keep": "2024-08-15 00:27:34 +0200",
+      "nova_structures:nether_skeleton_tower_basalt": "2024-08-15 00:33:40 +0200"
     },
     "done": false
   },
@@ -1729,7 +1774,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_hay_storage": "2024-08-05 19:51:28 +0200"
+      "entered_hay_storage": "2024-08-05 19:51:28 +0200",
+      "entered_fishing_ship": "2024-08-14 20:33:23 +0200"
     },
     "done": false
   },
@@ -1826,6 +1872,364 @@
   "enemyexpansion:hunted": {
     "criteria": {
       "hunted": "2024-08-07 22:33:49 +0200"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-08-09 19:41:52 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_10": "2024-08-09 22:06:24 +0200"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2024-08-10 11:57:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-08-10 15:16:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2024-08-10 15:19:28 +0200"
+    },
+    "done": true
+  },
+  "silentgear:tip_upgrade": {
+    "criteria": {
+      "get_item": "2024-08-10 17:17:34 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2024-08-10 17:55:05 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2024-08-10 17:55:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-08-10 21:10:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-08-10 21:20:08 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-08-10 22:40:23 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-08-10 22:43:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2024-08-11 23:08:00 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:crimson_wine_rack_bid": {
+    "criteria": {
+      "has_crimson_planks": "2024-08-11 23:29:49 +0200"
+    },
+    "done": true
+  },
+  "nethervinery:warped_wine_rack_bid": {
+    "criteria": {
+      "has_warped_planks": "2024-08-12 00:17:26 +0200"
+    },
+    "done": true
+  },
+  "quark:overlevel_enchant": {
+    "criteria": {
+      "overlevel_enchant": "2024-08-12 15:33:32 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_lumberjack": {
+    "criteria": {
+      "lumberjack": "2024-08-12 17:19:31 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:military/build_barracks": {
+    "criteria": {
+      "barracks": "2024-08-13 17:46:46 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:military/build_barracks_tower": {
+    "criteria": {
+      "barracks_tower": "2024-08-13 18:17:02 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_miner": {
+    "criteria": {
+      "miner": "2024-08-13 18:41:14 +0200"
+    },
+    "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "flax_seeds": "2024-08-13 19:02:20 +0200",
+      "fluffy_seeds": "2024-08-13 19:01:59 +0200"
+    },
+    "done": false
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2024-08-13 19:33:58 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-08-13 21:42:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-08-13 21:48:01 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2024-08-13 21:50:22 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2024-08-13 22:16:54 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2024-08-13 22:26:51 +0200"
+    },
+    "done": true
+  },
+  "silentgear:swords": {
+    "criteria": {
+      "sword": "2024-08-13 23:07:08 +0200",
+      "katana": "2024-08-14 16:32:50 +0200"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-08-13 23:45:58 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2024-08-14 00:09:53 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_repair_kit": {
+    "criteria": {
+      "get_item": "2024-08-14 00:38:24 +0200"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_composter": {
+    "criteria": {
+      "composter": "2024-08-14 14:11:19 +0200"
+    },
+    "done": true
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_catalyst": "2024-08-14 14:21:38 +0200",
+      "get_grader": "2024-08-14 14:13:56 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2024-08-14 14:17:47 +0200"
+    },
+    "done": true
+  },
+  "silentgear:grader_catalyst_3": {
+    "criteria": {
+      "get_item": "2024-08-14 14:21:59 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ore": "2024-08-14 14:30:08 +0200",
+      "get_ingot": "2024-08-14 14:43:18 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_electrum": {
+    "criteria": {
+      "get_ingot": "2024-08-14 16:16:44 +0200"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2024-08-14 18:45:07 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-08-14 18:46:38 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-08-14 18:46:38 +0200"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-08-14 20:31:27 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2024-08-14 20:37:10 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2024-08-14 22:27:23 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-08-14 22:49:26 +0200"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_swamp": "2024-08-14 23:15:17 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-08-14 23:25:35 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_keep": {
+    "criteria": {
+      "minecraft:nether_keep": "2024-08-15 00:27:34 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2024-08-15 00:28:16 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2024-08-15 00:30:42 +0200"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2024-08-15 00:32:11 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2024-08-15 00:33:40 +0200"
+    },
+    "done": false
+  },
+  "create:sturdy_sheet": {
+    "criteria": {
+      "0": "2024-08-15 01:16:20 +0200"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/enchanting_guide": {
+    "criteria": {
+      "has_item": "2024-08-15 01:16:20 +0200"
+    },
+    "done": true
+  },
+  "create:extendo_grip": {
+    "criteria": {
+      "0": "2024-08-15 01:16:46 +0200"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/cladded_armor": {
+    "criteria": {
+      "netherite_armor": "2024-08-15 01:47:52 +0200"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/blighted_balsa_sapling": {
+    "criteria": {
+      "get_stew": "2024-08-15 16:18:39 +0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2024-08-15 16:26:20 +0200"
+    },
+    "done": true
+  },
+  "brewery:main/eat_everything": {
+    "criteria": {
+      "sausage": "2024-08-15 21:57:39 +0200"
+    },
+    "done": false
+  },
+  "brewery:main/get_saturated": {
+    "criteria": {
+      "saturated": "2024-08-15 21:57:39 +0200"
     },
     "done": true
   },
