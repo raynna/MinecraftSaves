@@ -18,12 +18,12 @@
 	#Should citizen name tags be rendered? [Default: true]
 	alwaysrendernametag = true
 	#Should workers work during the rain? [Default: false]
-	workersalwaysworkinrain = true
+	workersalwaysworkinrain = false
 	#Should special holiday content be displayed? [Default: true]
 	holidayfeatures = true
 	#Chance for the Miner to get an ore when mining cobblestone or stone (by default, can be expanded with datapacks to other materials). This is a percentage. (To change which ores the Miner can find, see "List of Lucky Ores".) [Default: 1, min: 0, max: 100]
 	#Range: 0 ~ 100
-	luckyblockchance = 2
+	luckyblockchance = 1
 	#The minimum level a Town Hall has to be to allow teleportation to allied colonies. [Default: 3, min: 0, max: 5]
 	#Range: 0 ~ 5
 	minthleveltoteleport = 3
@@ -45,7 +45,7 @@
 	#Range: 1 ~ 1000
 	maxtreesize = 400
 	#Disables supply camp placing restrictions, intended for skyworlds and similar [Default: false]
-	nosupplyplacementrestrictions = true
+	nosupplyplacementrestrictions = false
 	#Raiders will spawn in the sky if this is enabled [Default: false]
 	skyraiders = false
 
@@ -83,13 +83,13 @@
 [claims]
 	#Maximum claim range for a colony. This is the radius, measured in chunks. [Default: 20, min: 1, max: 250]
 	#Range: 1 ~ 250
-	maxColonySize = 250
+	maxColonySize = 20
 	#The minimum distance (in chunks) between colonies. [Default: 8, min: 1, max: 200]
 	#Range: 1 ~ 200
-	minColonyDistance = 12
+	minColonyDistance = 8
 	#Initial claim size for a colony. This is the radius, measured in chunks. [Default: 4, min: 1, max: 15]
 	#Range: 1 ~ 15
-	initialColonySize = 6
+	initialColonySize = 4
 	#Max distance (in blocks) from world spawn for a colony. [Default: 30000, min: 1000, max: 2147483647]
 	#Range: > 1000
 	maxdistancefromworldspawn = 30000
@@ -165,7 +165,7 @@
 	minimumrailstopath = 8
 	#Amount of additional threads to be used for pathfinding. [Default: 2, min: 1, max: 10]
 	#Range: 1 ~ 10
-	pathfindingmaxthreadcount = 3
+	pathfindingmaxthreadcount = 2
 
 #All configurations related to the request system
 [requestSystem]
