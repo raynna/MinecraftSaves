@@ -1273,69 +1273,21 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "cataclysm:kill_ender_guardian": {
     "criteria": {
-      "crying_obsidian": "2024-08-15 00:49:41 +0200"
+      "enderguardian": "2024-08-14 22:34:04 +0200"
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/root": {
+  "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
-      "enter_swamp": "2024-08-14 23:15:17 +0200"
+      "location0": "2024-08-14 22:45:19 +0200"
     },
     "done": true
-  },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2024-08-15 01:58:31 +0200"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2024-08-15 01:46:54 +0200"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2024-08-15 02:21:04 +0200"
-    },
-    "done": false
   },
   "alexsmobs:alexsmobs/cosmic_cod": {
     "criteria": {
       "capsid": "2024-08-14 22:55:33 +0200"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_skeleton_tower": {
-    "criteria": {
-      "nova_structures:nether_skeleton_tower_soul": "2024-08-15 00:03:02 +0200"
-    },
-    "done": false
-  },
-  "biomemakeover:biomemakeover/enter_swamp": {
-    "criteria": {
-      "enter_swamp2": "2024-08-14 23:15:17 +0200"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2024-08-14 23:14:32 +0200"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2024-08-15 01:52:36 +0200"
-    },
-    "done": true
-  },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted": "2024-08-14 23:19:33 +0200"
     },
     "done": true
   },
@@ -1345,27 +1297,27 @@
     },
     "done": true
   },
-  "nova_structures:adventure/tavern_quest": {
+  "nova_structures:adventure/find_tavern": {
     "criteria": {
-      "open_tavern_chest": "2024-08-15 01:59:41 +0200"
+      "nova_structures:tavern_oak": "2024-08-14 23:14:32 +0200"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
+  "biomemakeover:biomemakeover/root": {
     "criteria": {
-      "killed_by": "2024-08-15 01:19:09 +0200"
+      "enter_swamp": "2024-08-14 23:15:17 +0200"
     },
     "done": true
   },
-  "create:wrench_goggles": {
+  "biomemakeover:biomemakeover/enter_swamp": {
     "criteria": {
-      "1": "2024-08-15 01:47:12 +0200"
+      "enter_swamp2": "2024-08-14 23:15:17 +0200"
     },
-    "done": false
+    "done": true
   },
-  "dungeons_arise:find_heavenly_challenger": {
+  "enemyexpansion:hunted": {
     "criteria": {
-      "location0": "2024-08-14 22:45:19 +0200"
+      "hunted": "2024-08-14 23:19:33 +0200"
     },
     "done": true
   },
@@ -1375,21 +1327,15 @@
     },
     "done": true
   },
-  "cataclysm:find_burning_arena": {
+  "nova_structures:nether/find_skeleton_tower": {
     "criteria": {
-      "arena": "2024-08-15 00:27:27 +0200"
+      "nova_structures:nether_skeleton_tower_soul": "2024-08-15 00:03:02 +0200"
     },
-    "done": true
+    "done": false
   },
-  "cataclysm:kill_ender_guardian": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "enderguardian": "2024-08-14 22:34:04 +0200"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ignis": {
-    "criteria": {
-      "ignis": "2024-08-15 00:49:18 +0200"
+      "ancient_debris": "2024-08-15 00:05:36 +0200"
     },
     "done": true
   },
@@ -1399,15 +1345,128 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_ancient_debris": {
+  "cataclysm:find_burning_arena": {
     "criteria": {
-      "ancient_debris": "2024-08-15 00:05:36 +0200"
+      "arena": "2024-08-15 00:27:27 +0200"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "cataclysm:kill_ignis": {
     "criteria": {
-      "fortress": "2024-08-14 23:55:07 +0200"
+      "ignis": "2024-08-15 00:49:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-08-15 00:49:41 +0200"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-08-15 01:19:09 +0200"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-08-15 01:46:54 +0200"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2024-08-15 01:47:12 +0200"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-08-15 01:52:36 +0200"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-08-15 01:58:31 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-08-15 01:59:41 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-08-15 02:21:04 +0200"
+    },
+    "done": false
+  },
+  "ancient_aether:aether_biomes": {
+    "criteria": {
+      "sakura_jungle": "2024-08-23 14:54:42 +0200",
+      "wyndcap_peaks": "2024-08-23 14:54:42 +0200",
+      "elevated_clearing": "2024-08-23 14:54:51 +0200",
+      "wyndcap_taiga": "2024-08-23 14:54:17 +0200",
+      "elevated_forest": "2024-08-23 14:54:49 +0200"
+    },
+    "done": false
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2024-08-23 14:54:17 +0200"
+    },
+    "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "deep_aether:aerglow_forest": "2024-08-23 14:57:02 +0200",
+      "deep_aether:mystic_aerglow_forest": "2024-08-23 14:56:50 +0200"
+    },
+    "done": false
+  },
+  "ancient_aether:building_blocks/gale_stone_from_gale_stone_mosaic_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2024-08-23 14:47:29 +0200"
+    },
+    "done": true
+  },
+  "ancient_aether:building_blocks/gale_stone_mosaic_from_gale_stone_stonecutting": {
+    "criteria": {
+      "has_the_recipe": "2024-08-23 14:47:29 +0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-08-23 14:47:29 +0200"
+    },
+    "done": true
+  },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2024-08-23 14:57:47 +0200"
+    },
+    "done": true
+  },
+  "ancient_aether:building_blocks/gale_stone_mosaic": {
+    "criteria": {
+      "has_the_recipe": "2024-08-23 14:47:29 +0200"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-08-23 14:47:29 +0200"
+    },
+    "done": true
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2024-08-23 14:54:17 +0200"
     },
     "done": true
   },
